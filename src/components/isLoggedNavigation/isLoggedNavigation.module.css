@@ -1,0 +1,42 @@
+.wrapper {
+  display: flex;
+  margin-left: 15px;
+  align-items: center;
+  /* padding: 0 10px; */
+}
+.link {
+  display: block;
+  text-decoration: none;
+  margin-right: 70px;
+  color: #fff;
+}
+
+.link:hover {
+  color: rgb(200, 255, 0);
+}
+
+.active {
+  color: rgb(200, 255, 0);
+  margin-right: 20px;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.userName {
+  display: block;
+  margin-right: 30px;
+  color: white;
+}
+
+.btn {
+  color: white;
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  padding: 5px 10px;
+  background-color: #598295;
+  border: 2px solid #e9988a;
+  border-radius: 5px;
+  font-size: 11px;
+  cursor: pointer;
+}

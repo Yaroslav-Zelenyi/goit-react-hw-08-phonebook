@@ -1,0 +1,38 @@
+.Layout__navbar {
+  background-color: tomato;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 60px;
+}
+
+.Layout__title {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #fff;
+}
+.Layout__span {
+  color: rgb(200, 255, 0);
+}
+
+.Layout__wrapper {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.Layout__ontainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+}
+.Layout__sec {
+  height: 100vh;
+  background-size: cover;
+  background-repeat: repeat;
+  background-position: center center;
+  background-attachment: fixed;
+}

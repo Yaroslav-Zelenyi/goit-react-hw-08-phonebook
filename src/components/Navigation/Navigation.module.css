@@ -1,0 +1,24 @@
+.Navigation__list {
+  display: flex;
+  gap: 25px;
+  list-style: none;
+}
+.Navigation__link {
+  text-decoration: none;
+  font-size: 18px;
+  color: #fff;
+  display: flex;
+  gap: 5px;
+  align-items: center;
+}
+.Navigation__active {
+  color: rgb(191, 255, 0);
+  text-decoration: none;
+  font-size: 18px;
+  display: flex;
+  gap: 5px;
+  align-items: center;
+}
+.Navigation__link:hover {
+  color: rgb(191, 255, 0);
+}

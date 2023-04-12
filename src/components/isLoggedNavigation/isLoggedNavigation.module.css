@@ -2,12 +2,11 @@
   display: flex;
   margin-left: 15px;
   align-items: center;
-  /* padding: 0 10px; */
 }
 .link {
   display: block;
   text-decoration: none;
-  margin-right: 70px;
+  margin-right: 20px;
   color: #fff;
 }
 
